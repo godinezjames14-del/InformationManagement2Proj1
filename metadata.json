@@ -1,0 +1,8 @@
+{
+  "name": "WebFlow Architect",
+  "description": "Effortlessly build responsive, secure web applications with integrated authentication and professional design in one seamless workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
